@@ -1,0 +1,34 @@
+{
+    "review": "A month after receiving the wireless keyboard, the switch on the keyboard has started malfunctioning and now works very erratically. The mouse is small and difficult to use for long periods. The Price for the mouse is high.",
+    "topics": [
+        {
+            "sentence": "month receive wireless keyboard switch keyboard start malfunction work erratically",
+            "aspect": {
+                "price": 0.37604693637640396,
+                "installation": 0.32393375573867766
+            },
+            "sentiment": {
+                "price": "negative",
+                "installation": "negative"
+            }
+        },
+        {
+            "sentence": "mouse small difficult use long period",
+            "aspect": {
+                "usability": 0.4769944726961008
+            },
+            "sentiment": {
+                "usability": "negative"
+            }
+        },
+        {
+            "sentence": "price mouse high",
+            "aspect": {
+                "price": 0.8485832827633787
+            },
+            "sentiment": {
+                "price": "negative"
+            }
+        }
+    ]
+}
